@@ -15,9 +15,9 @@ _Note that this features list is not exhaustive, view more features via this [LI
 
 ## Installation guide
 Please follow these steps to get started using crosslink:
-- Access apk file, download and install the app via this [LINK](https://drive.google.com/file/d/1Hi6J_cafLEOeskU8Ao-7aXRMcNcPUezt/view?usp=sharing)
-- Create a new account or log in with account details
-- Utlize app features as needed
+1. Access apk file, download and install the app via this [LINK](https://drive.google.com/file/d/1Hi6J_cafLEOeskU8Ao-7aXRMcNcPUezt/view?usp=sharing)
+2. Create a new account or log in with account details
+3. Utlize app features as needed
 
 ## Technology
 - Flutter - UI toolkit
